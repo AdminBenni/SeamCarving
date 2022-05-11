@@ -1,3 +1,7 @@
+# Seam Carving C++ Final Project
+
+## About
+### Project Description and Proposal: https://docs.google.com/document/d/1sUdq5QHb0U0yQCnDj7lcP6z-H4K9Jmua2MpBQdVeuwc
 ### Demonstration Video (In Icelandic): https://www.youtube.com/watch?v=aDHIt2jeR0U
 
 ## Compiling and running
