@@ -1,8 +1,8 @@
 # Seam Carving C++ Final Project
 
 ## About
-### Project Description and Proposal: https://docs.google.com/document/d/1sUdq5QHb0U0yQCnDj7lcP6z-H4K9Jmua2MpBQdVeuwc
-### Demonstration Video (In Icelandic): https://www.youtube.com/watch?v=aDHIt2jeR0U
+### Project Description and Proposal can be found [here](https://docs.google.com/document/d/1sUdq5QHb0U0yQCnDj7lcP6z-H4K9Jmua2MpBQdVeuwc)
+### Demonstration Video (In Icelandic) can be found [here](https://www.youtube.com/watch?v=aDHIt2jeR0U)
 
 ## Compiling and running
 Since the OpenCV library has quite complicated requirements I have created a Dockerfile which allows you to run the program as a docker container and not have to worry about installing anything (except docker of course).
