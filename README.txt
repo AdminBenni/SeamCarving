@@ -1,3 +1,5 @@
+Demonstration Video (In Icelandic): https://www.youtube.com/watch?v=aDHIt2jeR0U
+
 Compiling and running:
     Since the OpenCV library has quite complicated requirements I have created a Dockerfile which allows
     you to run the program as a docker container and not have to worry about installing anything
