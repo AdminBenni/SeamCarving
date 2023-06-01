@@ -2,6 +2,7 @@
 
 ## About
 ### Project Description and Proposal can be found [here](https://docs.google.com/document/d/1sUdq5QHb0U0yQCnDj7lcP6z-H4K9Jmua2MpBQdVeuwc)
+### Project Submission Report can be found [here](https://drive.google.com/file/d/1k1wDTJg_dx_5IAEmGSv9iqiEeO8b5kzb)
 ### Demonstration Video (In Icelandic) can be found [here](https://www.youtube.com/watch?v=aDHIt2jeR0U)
 
 ## Compiling and running
